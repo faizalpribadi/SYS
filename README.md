@@ -33,7 +33,7 @@ SYS - Share Your Stack
 
 * `Micro Editor CLI as nano`
 
-* `Bat as cat`
+* `Bat CLI as cat`
 
 
 
