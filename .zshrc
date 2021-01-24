@@ -129,7 +129,3 @@ export MCFLY_FUZZY=true
 
 # All aliases defined here
 alias cmd=navi
-export GOPATH=/Users/faizal.pribadi/gopath
-export PATH=${PATH}:${GOPATH}/bin
-export PATH=${PATH}:${GOPATH}/src/gitlab.myteksi.net/gophers/go/scripts
-source ${GOPATH}/src/gitlab.myteksi.net/gophers/go/scripts/set-env.sh ci > /dev/null 2>&1 # Setting env-vars on each bash startup
