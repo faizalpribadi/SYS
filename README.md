@@ -27,5 +27,13 @@ SYS - Share Your Stack
 
 * `Golang GVM`
 
+* `VirtualENV`
+
 * `Kafka KT`
+
+* `Micro Editor CLI as nano`
+
+* `Bat as cat`
+
+
 
